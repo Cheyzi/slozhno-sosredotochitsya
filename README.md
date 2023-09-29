@@ -1,1 +1,1 @@
-https://github.com/Cheyzi/slozhno-sosredotochitsya)https://github.com/Cheyzi/slozhno-sosredotochitsya/main
+https://github.com/Cheyzi/slozhno-sosredotochitsya/main
