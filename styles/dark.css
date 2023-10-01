@@ -16,5 +16,5 @@
   --accent-color:#FF0070;
   --decor-color: var(--accent-color);
   --decor-text:var(--bg-color);
-  --background-title:url(/images/cover-image-dark.png);
+  --background-title:url(../images/cover-image-dark.png);
 }
