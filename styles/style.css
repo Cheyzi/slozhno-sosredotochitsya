@@ -5,9 +5,9 @@
   gap:40px;
   color: var(--text-color);
   font-family: var(--main-font);
-  background-color: var(--bg-color);
   font-size: 18px;
   line-height: 130%;
+  background-color: var(--bg-color);
 }
 
 .decorated-zone {
@@ -54,8 +54,8 @@
   width: 9px;
   height: 9px;
   border-radius: 50% ;
-  background-color: var(--accent-color);
   box-shadow: 0px 0px 4px 2px var(--accent-color);
+  background-color: var(--accent-color);
 }
   
 .header {
@@ -105,8 +105,8 @@
 
 
 .header__theme-menu-button_active {
-  pointer-events:none;
   outline: 1px solid var(--decor-color);
+  pointer-events:none;
 }
 
 .header__container {
@@ -155,7 +155,7 @@
 .section__container-card {
   display:flex;
   flex-direction: column;
-  gap:10px
+  gap:10px;
 }
 
 .section__title {
@@ -315,9 +315,9 @@
 {
   
   .header__container {
-    gap:114px;
     grid-area: 1/1/4/2;
     align-items: start;
+    gap:114px;
   }
 
   .decorated-zone::before {
