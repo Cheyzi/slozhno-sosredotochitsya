@@ -19,20 +19,20 @@
     --decor-text: var(--text-color);
     --background-title:url(../images/cover-image-light.png); 
     }
+
+    .header__theme-menu-button:hover {
+      outline: 1px solid rgba(50, 49, 45, 0.40);
+    }
+
+    .decorate__rec {
+      visibility: hidden;
+    }
 }
 
 .page.theme_light .header__theme-menu-button:hover {
   outline: 1px solid rgba(50, 49, 45, 0.40);
 }
 
-.page.theme_auto .header__theme-menu-button:hover {
-  outline: 1px solid rgba(50, 49, 45, 0.40);
-}
-
 .page.theme_light .decorate__rec {
-  display: none;
-}
-
-.page.theme_auto .decorate__rec {
   display: none;
 }

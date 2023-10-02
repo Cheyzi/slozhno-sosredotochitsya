@@ -9,6 +9,10 @@
   color: var(--decor-color);
 }
 
+.page.theme_dark .decorate__rec {
+  visibility: visible;
+}
+
 .page.theme_dark {
   --bg-color:#000028;
   --title-color: #DB00FF;
@@ -18,3 +22,5 @@
   --decor-text:var(--bg-color);
   --background-title:url(../images/cover-image-dark.png);
 }
+
+
